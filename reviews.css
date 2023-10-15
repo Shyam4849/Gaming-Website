@@ -1,0 +1,95 @@
+body {
+    background-image: url('./img/img_13.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.custom_nav {
+    background-color: #00008B;
+}
+
+.navbar-collapse {
+
+    flex-grow: 0 !important;
+}
+
+.nav-link {
+    font-size: 1.2rem !important;
+}
+
+.heading {
+    margin-top: 5rem;
+
+}
+
+.second-head {
+    font-size: 3.5rem;
+}
+
+.nav-item {
+    color: cyan;
+}
+
+.nav-item a:hover {
+    background-color: rgb(100, 239, 249);
+    color: black;
+    font-weight: bold;
+
+}
+
+.mainhead {
+    color: aliceblue;
+    font-weight: bolder;
+    padding-left: 42%;
+    padding-top: 5%;
+}
+
+.column {
+    float: left;
+    width: 33.3%;
+    padding: 10px;
+}
+
+.head1 {
+    color: hotpink;
+    padding-left: 15%;
+    padding-right: 15%;
+    padding-top: 20%;
+
+}
+
+.head2 {
+    color: hotpink;
+    padding-top: 20%;
+    padding-left: 25%;
+    padding-right: 25%;
+}
+
+.con1 {
+    color: whitesmoke;
+    font-size: x-large;
+    padding-top: 10%;
+    padding-left: 15%;
+    padding-right: 40%;
+}
+
+.con2 {
+    color: whitesmoke;
+    font-size: x-large;
+    padding-top: 10%;
+    padding-left: 25%;
+    padding-right: 25%;
+}
+
+.para1 {
+    padding-left: 25%;
+}
+
+.para2 {
+    padding-left: 45%;
+}
+
+.para3 {
+    padding-left: 30%;
+}

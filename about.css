@@ -1,0 +1,186 @@
+body {
+    background-image: url('./img/img_13.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.custom_nav {
+    background-color: #00008B;
+}
+
+.navbar-collapse {
+
+    flex-grow: 0 !important;
+}
+
+.nav-link {
+    font-size: 1.2rem !important;
+}
+
+.nav-item {
+    color: cyan;
+}
+
+.nav-item a:hover {
+    background-color: rgb(100, 239, 249);
+    color: black;
+    font-weight: bold;
+
+}
+
+.main-content {
+    padding: 130px;
+    color: aliceblue;
+    margin: auto;
+    width: 50%;
+    padding: 20px;
+}
+
+.heading {
+    margin-top: 5rem;
+
+}
+
+.second-head {
+    font-size: 3.5rem;
+}
+
+.heading {
+    font-size: 5rem;
+}
+
+.second-head {
+    font-size: 2.5rem;
+}
+
+.btn {
+    color: aliceblue;
+    font-size: 1.5rem;
+    margin: auto;
+    width: 50%;
+    padding: 40px;
+}
+
+.btn a:hover {
+    color: aquamarine;
+}
+
+.video1 {
+    padding-left: 20%;
+}
+
+/* Second Page */
+
+.column {
+    float: left;
+    width: 50%;
+    padding: 10px;
+}
+
+.heading1 {
+    color: hotpink;
+    padding-top: 15%;
+    padding-left: 30%;
+    padding-right: 40%;
+}
+
+
+
+.rtsg {
+    height: 600px;
+    width: 900px;
+    padding-left: 40%;
+}
+
+.con1 {
+    color: whitesmoke;
+    font-size: x-large;
+    padding-top: 5%;
+    padding-right: 30%;
+    padding-left: 30%;
+}
+
+.see_more1_btn {
+    background: #DE3163;
+    border: none;
+    color: whitesmoke;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4% 20%;
+    cursor: pointer;
+    border-radius: 250px;
+
+}
+
+.see_more1_btn:hover {
+    background: #DE3163;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4% 20%;
+    cursor: pointer;
+    border-radius: 250px;
+}
+
+/* Third Page  */
+
+.column {
+    float: left;
+    width: 50%;
+    padding: 10px;
+}
+
+.heading2 {
+    color: hotpink;
+    padding-top: 15%;
+    padding-left: 30%;
+    padding-right: 40%;
+}
+
+
+.rpg {
+    height: 500px;
+    width: 600px;
+    padding-right: 50%;
+    padding-top: 20%;
+}
+
+.con2 {
+    color: whitesmoke;
+    font-size: x-large;
+    padding-top: 5%;
+    padding-right: 30%;
+    padding-left: 30%;
+}
+
+.see_more2_btn {
+    background: #DE3163;
+    border: none;
+    color: whitesmoke;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4% 20%;
+    cursor: pointer;
+    border-radius: 250px;
+
+}
+
+.see_more2_btn:hover {
+    background: #DE3163;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4% 20%;
+    cursor: pointer;
+    border-radius: 250px;
+}

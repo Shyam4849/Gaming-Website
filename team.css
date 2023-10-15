@@ -1,0 +1,111 @@
+body {
+    background-image: url('./img/img_13.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.custom_nav {
+    background-color: #00008B;
+}
+
+.navbar-collapse {
+    flex-grow: 0 !important;
+}
+
+.nav-link {
+    font-size: 1.2rem !important;
+}
+
+.m_h {
+    color: aliceblue;
+    padding-left: 45%;
+    padding-top: 3%;
+}
+
+.parag1 {
+    color: white;
+    padding-left: 30%;
+    padding-right: 30%;
+    padding-top: 2%;
+    font-size: large;
+}
+
+.column {
+    float: left;
+    width: 20%;
+    padding: 10px;
+}
+
+.im1 {
+    border-radius: 50%;
+    padding-left: 7%;
+}
+.im2 {
+    border-radius: 50%;
+    padding-left: 7%;
+}
+.im3 {
+    border-radius: 50%;
+    padding-left: 7%;
+}
+.im4 {
+    border-radius: 50%;
+    padding-left: 7%;
+}
+.im5 {
+    border-radius: 50%;
+    padding-left: 7%;
+}
+.name1{
+    color: hotpink;
+    padding-left: 2%;
+}
+.name2{
+    color: hotpink;
+}
+.name3{
+    color: hotpink;
+}
+.name4{
+    color: hotpink;
+    padding-left: 10%;
+}
+.name5{
+    color: hotpink;
+}
+.pro1{
+    color: white;
+    padding-left: 8%;
+}
+.pro2{
+    color: white;
+    padding-left: 20%;
+}
+.pro3{
+    color: white;
+    padding-left: 14%;
+}
+.pro4{
+    color: white;
+    padding-left: 8%;
+}
+.pro5{
+    color: white;
+    padding-left: 3%;
+}
+.add1{
+    color: white;
+    padding-left: 4%;
+}
+.add2{
+    color: white;
+}
+.add3{
+    color: white;
+}
+.add4{
+    color: white;
+}
+.add5{
+    color: white;
+}
